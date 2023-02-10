@@ -1,7 +1,7 @@
 ![](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 # About Me:
-I'm **Glitch**, and I'm all about cyber and information security content. I really enjoy learning new languages, techniques and tools related to my field.
+I'm **Glitch** and I'm into the Cyber & Security Field. I enjoy learning new languages, techniques, and tools related to my field.
 
 - 🔭 I’m currently working on Something .
 - 🌱 I’m currently learning Rust .
