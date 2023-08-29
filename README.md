@@ -1,10 +1,10 @@
 ![](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 # About Me:
-I'm **Glitch** and I'm into the Cyber & Security Field. I enjoy learning new languages, techniques, and tools related to my field.
+My name is Onyx and I have a passion for the Cyber & Security Field. I am constantly seeking new languages, techniques, and tools to enhance my knowledge and skills in this field.
 
-- 🔭 I’m currently working on Something .
-- 🌱 I’m currently learning Rust .
+- 🔭 I’m currently working on Something.
+- 🌱 I’m currently learning Rust.
 
 # Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
